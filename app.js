@@ -65,7 +65,7 @@ function reiniciarJogo() {
     document.getElementById('reiniciar').setAttribute('disabled', true)
 }
 
-
+//finalizado por hora(21/05)
 
 
 
